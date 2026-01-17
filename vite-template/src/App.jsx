@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        This is a change for an initial push
+        This is a change for an initial push addied by Martin
       </p>
     </>
   )
